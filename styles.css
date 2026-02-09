@@ -8,13 +8,13 @@
 }
 
 *{
-    font-family: Arial, Verdana, sans-serif;
+    font-family: Comfortaa, Verdana, sans-serif;
     line-height: 1.35;
     color: var(--dk-gray);
 }
 
 body{
-    margin: 0;
+    margin: 0.5rem  ;
 }
 
 header, footer{
@@ -41,7 +41,7 @@ h3{
 
 p{
     max-width: 65ch;
-    margin: 1rem auto;
+    margin: 1.5rem auto;
 }
 
 code{
